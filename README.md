@@ -1,5 +1,5 @@
-# Curso-de-HTML5
-
+# Curso de HTML5
+## Temario
 01. ¿Qué es HTML?
 02. Historia de HTML
 03. Editores de código HTML
@@ -12,18 +12,19 @@
     - Agrupación
     - Semánticas a nivel de texto
     - Contenido embebido
-    - Enlaces
+    - Enlaces o anclas
     - Etiquetas para datos tabulados
 08. Atributos de etiquetas
-09. Nuevas etiquetas en HTML5
+09. Etiquetas nuevas en HTML5
 10. Etiquetas obsoletas en HTML5
-11. Etendiendo la semántica de HTML5
+11. Semántica de HTML5
 12. Tipos de rutas
-13. Tipos de enlaces y anclas o marcadores
-14. Tipos de listas
-15. Trabajando con tablas
-16. Trabajando con imágenes
-17. Trabajando con formularios
+13. Tipos de enlaces o anclas
+14. Marcadores
+14. Listas
+15. Tablas
+16. Imágenes
+17. Formularios
 18. Etiqueta de audio
 19. Etiqueta de video
 
