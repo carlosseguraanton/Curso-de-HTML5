@@ -7,13 +7,13 @@
 05. Estructura básica de un documento HTML
 06. Especificaciones W3C
 07. Tipos de etiquetas
-    7.1. Metadatos
-    7.2. Sección
-    7.3. Agrupación
-    7.4. Semánticas a nivel de texto
-    7.5. Contenido embebido
-    7.6. Enlaces
-    7.7. Etiquetas para datos tabulados
+    - Metadatos
+    - Sección
+    - Agrupación
+    - Semánticas a nivel de texto
+    - Contenido embebido
+    - Enlaces
+    - Etiquetas para datos tabulados
 08. Atributos de etiquetas
 09. Nuevas etiquetas en HTML5
 10. Etiquetas obsoletas en HTML5
@@ -27,6 +27,7 @@
 18. Etiqueta de audio
 19. Etiqueta de video
 
-Documentación oficial
-https://developer.mozilla.org/es/docs/Web/HTML
+# Documentación oficial [aquí](https://developer.mozilla.org/es/docs/Web/HTML)
+
+URL de la documentación oficial: https://developer.mozilla.org/es/docs/Web/HTML
 
